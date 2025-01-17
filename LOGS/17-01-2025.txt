@@ -1,0 +1,81 @@
+[17/01/2025 17:54:28] INFO - Iniciando o Processo.
+[17/01/2025 17:54:28] INFO - Diretórios e arquivo CSV criados...
+[17/01/2025 17:54:32] INFO - Inicializou o site: https://rpachallengeocr.azurewebsites.net/
+[17/01/2025 17:54:32] INFO - Data: 24-12-2024 é menor ou igual a data de hoje.
+[17/01/2025 17:54:34] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_17.54.28/ea9yu4ia48kpho6fu4fk4.png
+[17/01/2025 17:54:34] INFO - Linha da fatura ea9yu4ia48kpho6fu4fk4 adicionada com sucesso no arquivo CSV.
+[17/01/2025 17:54:34] INFO - Data: 13-01-2025 é menor ou igual a data de hoje.
+[17/01/2025 17:54:34] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_17.54.28/e7ow0m6vola9pdrdot5p1m.png
+[17/01/2025 17:54:34] INFO - Linha da fatura e7ow0m6vola9pdrdot5p1m adicionada com sucesso no arquivo CSV.
+[17/01/2025 17:54:35] INFO - Indo para a próxima página.
+[17/01/2025 17:54:35] INFO - Data: 24-12-2024 é menor ou igual a data de hoje.
+[17/01/2025 17:54:36] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_17.54.28/ae11eohaz8txdmrrt9cma.png
+[17/01/2025 17:54:36] INFO - Linha da fatura ae11eohaz8txdmrrt9cma adicionada com sucesso no arquivo CSV.
+[17/01/2025 17:54:36] INFO - Data: 04-12-2024 é menor ou igual a data de hoje.
+[17/01/2025 17:54:36] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_17.54.28/7ub7hebfkiffs2gxqb5r8u.png
+[17/01/2025 17:54:36] INFO - Linha da fatura 7ub7hebfkiffs2gxqb5r8u adicionada com sucesso no arquivo CSV.
+[17/01/2025 17:54:36] INFO - Data: 11-01-2025 é menor ou igual a data de hoje.
+[17/01/2025 17:54:36] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_17.54.28/btj4uibg95gqti7t0gymwa.png
+[17/01/2025 17:54:36] INFO - Linha da fatura btj4uibg95gqti7t0gymwa adicionada com sucesso no arquivo CSV.
+[17/01/2025 17:54:38] INFO - Indo para a próxima página.
+[17/01/2025 17:54:38] INFO - Data: 23-12-2024 é menor ou igual a data de hoje.
+[17/01/2025 17:54:38] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_17.54.28/9g3ay1b254ogkrn2ua8spg.png
+[17/01/2025 17:54:38] INFO - Linha da fatura 9g3ay1b254ogkrn2ua8spg adicionada com sucesso no arquivo CSV.
+[17/01/2025 17:54:38] INFO - Botão Next desabilitado, robô fez toda a paginação.
+[17/01/2025 17:54:38] INFO - Caminho arquivo CSV: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/RESULTS/FATURAS_17-01-2025_17.54.28.csv
+[17/01/2025 17:54:38] INFO - Camminho da pasta das faturas: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_17.54.28
+[17/01/2025 17:54:38] INFO - Processo concluiído com Sucesso.
+[17/01/2025 18:31:20] INFO - Iniciando o Processo.
+[17/01/2025 18:31:20] INFO - Diretórios e arquivo CSV criados...
+[17/01/2025 18:31:24] INFO - Inicializou o site: https://rpachallengeocr.azurewebsites.net/
+[17/01/2025 18:31:24] INFO - Data: 26-11-2024 é menor ou igual a data de hoje.
+[17/01/2025 18:31:25] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.31.20/0emzhlivjfw94x6hdw5vvhc.png
+[17/01/2025 18:31:25] INFO - Linha da fatura 0emzhlivjfw94x6hdw5vvhc adicionada com sucesso no arquivo CSV.
+[17/01/2025 18:31:25] INFO - Data: 22-11-2024 é menor ou igual a data de hoje.
+[17/01/2025 18:31:26] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.31.20/kuu4prn37tpa9pct0vxizg.png
+[17/01/2025 18:31:26] INFO - Linha da fatura kuu4prn37tpa9pct0vxizg adicionada com sucesso no arquivo CSV.
+[17/01/2025 18:31:26] INFO - Data: 09-01-2025 é menor ou igual a data de hoje.
+[17/01/2025 18:31:26] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.31.20/lqqsj5nf1tlofretfc6r2l.png
+[17/01/2025 18:31:26] INFO - Linha da fatura lqqsj5nf1tlofretfc6r2l adicionada com sucesso no arquivo CSV.
+[17/01/2025 18:31:26] INFO - Data: 27-11-2024 é menor ou igual a data de hoje.
+[17/01/2025 18:31:26] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.31.20/y2nooz1if5kavjk2m5imx.png
+[17/01/2025 18:31:26] INFO - Linha da fatura y2nooz1if5kavjk2m5imx adicionada com sucesso no arquivo CSV.
+[17/01/2025 18:31:28] INFO - Indo para a próxima página.
+[17/01/2025 18:31:29] INFO - Indo para a próxima página.
+[17/01/2025 18:31:29] INFO - Data: 30-11-2024 é menor ou igual a data de hoje.
+[17/01/2025 18:31:29] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.31.20/riwe4rxeeoi2tdrsjzef8.png
+[17/01/2025 18:31:29] INFO - Linha da fatura riwe4rxeeoi2tdrsjzef8 adicionada com sucesso no arquivo CSV.
+[17/01/2025 18:31:29] INFO - Data: 19-11-2024 é menor ou igual a data de hoje.
+[17/01/2025 18:31:29] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.31.20/biljam1lrpnb6xqfmp4sjj.png
+[17/01/2025 18:31:29] INFO - Linha da fatura biljam1lrpnb6xqfmp4sjj adicionada com sucesso no arquivo CSV.
+[17/01/2025 18:31:29] INFO - Botão Next desabilitado, robô fez toda a paginação.
+[17/01/2025 18:31:29] INFO - Caminho arquivo CSV: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/RESULTS/FATURAS_17-01-2025_18.31.20.csv
+[17/01/2025 18:31:29] INFO - Camminho da pasta das faturas: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.31.20
+[17/01/2025 18:31:29] INFO - Processo concluiído com Sucesso.
+[17/01/2025 18:32:30] INFO - Iniciando o Processo.
+[17/01/2025 18:32:30] INFO - Diretórios e arquivo CSV criados...
+[17/01/2025 18:32:34] INFO - Inicializou o site: https://rpachallengeocr.azurewebsites.net/
+[17/01/2025 18:32:34] INFO - Data: 24-11-2024 é menor ou igual a data de hoje.
+[17/01/2025 18:32:35] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.32.30/bfjfgiioosvecpqf2nle6.png
+[17/01/2025 18:32:35] INFO - Linha da fatura bfjfgiioosvecpqf2nle6 adicionada com sucesso no arquivo CSV.
+[17/01/2025 18:32:37] INFO - Indo para a próxima página.
+[17/01/2025 18:32:37] INFO - Data: 19-12-2024 é menor ou igual a data de hoje.
+[17/01/2025 18:32:37] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.32.30/l76kjq5fbkrl8g2mrb93e.png
+[17/01/2025 18:32:37] INFO - Linha da fatura l76kjq5fbkrl8g2mrb93e adicionada com sucesso no arquivo CSV.
+[17/01/2025 18:32:38] INFO - Indo para a próxima página.
+[17/01/2025 18:32:38] INFO - Data: 09-01-2025 é menor ou igual a data de hoje.
+[17/01/2025 18:32:38] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.32.30/ogyyrhz7dgm0k2j5hbix.png
+[17/01/2025 18:32:38] INFO - Linha da fatura ogyyrhz7dgm0k2j5hbix adicionada com sucesso no arquivo CSV.
+[17/01/2025 18:32:39] INFO - Data: 29-12-2024 é menor ou igual a data de hoje.
+[17/01/2025 18:32:39] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.32.30/tutgg50jfyiru7xscdd1a.png
+[17/01/2025 18:32:39] INFO - Linha da fatura tutgg50jfyiru7xscdd1a adicionada com sucesso no arquivo CSV.
+[17/01/2025 18:32:39] INFO - Data: 24-11-2024 é menor ou igual a data de hoje.
+[17/01/2025 18:32:39] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.32.30/vayr2q4cc7r5bvtz5ndd4e.png
+[17/01/2025 18:32:39] INFO - Linha da fatura vayr2q4cc7r5bvtz5ndd4e adicionada com sucesso no arquivo CSV.
+[17/01/2025 18:32:39] INFO - Data: 17-01-2025 é menor ou igual a data de hoje.
+[17/01/2025 18:32:40] INFO - Dowload da Fatura com sucesso, disponível em: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.32.30/we3gn9b6f7kpu2umtdgqlo.png
+[17/01/2025 18:32:40] INFO - Linha da fatura we3gn9b6f7kpu2umtdgqlo adicionada com sucesso no arquivo CSV.
+[17/01/2025 18:32:40] INFO - Botão Next desabilitado, robô fez toda a paginação.
+[17/01/2025 18:32:40] INFO - Caminho arquivo CSV: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/RESULTS/FATURAS_17-01-2025_18.32.30.csv
+[17/01/2025 18:32:40] INFO - Camminho da pasta das faturas: /home/sama/Documentos/meus_scripts_git/Rpa_Challenge_Ocr/IMGS/17.01.2025_18.32.30
+[17/01/2025 18:32:40] INFO - Processo concluído com Sucesso.
