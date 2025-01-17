@@ -29,7 +29,7 @@ Demais bibliotecas estão listadas no arquivo 'requirements.txt'
 
 ## Sobre o código
 
-O projeto foi desenvolvido utilizando o paradigma Orientado a Objetos, destacando a implementação de padrões de projeto como Singleton e Page Object Model (POM). O arquivo main.py contém todas as funcionalidades do projeto, incluindo a requisição do arquivo CSV via Requests e a interação com o site da atividade, utilizando Selenium para automação de navegação.
+O projeto foi desenvolvido utilizando o paradigma Orientado a Objetos, destacando a implementação de padrões de projeto como Singleton e Page Object Model (POM). O arquivo main.py contém todas as funcionalidades do projeto, incluindo a requisição dos arquivos PNG via Requests, a inclusão dos dados capturados no arquivo CSV via Pandas e a interação com o site da atividade, utilizando Selenium para automação de navegação.
 
 ### Estrutura do Projeto
 No main, o projeto é estruturado como uma máquina de estados (INITIALIZATION, PROCESS, END), emulando o ReFramework do UiPath. Essa abordagem auxilia na criação de automações mais confiáveis, flexíveis e fáceis de manter ao longo do tempo.
